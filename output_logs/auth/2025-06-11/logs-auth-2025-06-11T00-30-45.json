@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "5583",
+      "request_id": "req_93106"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "1928",
+      "request_id": "req_73937"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "5903",
+      "request_id": "req_64774"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "3890",
+      "request_id": "req_81427"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "6956",
+      "request_id": "req_11398"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "Token expired",
+    "context": {
+      "user_id": "8487",
+      "request_id": "req_76107"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Token expired",
+    "context": {
+      "user_id": "5341",
+      "request_id": "req_74110"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "1627",
+      "request_id": "req_70117"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "2480",
+      "request_id": "req_86128"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "User login success",
+    "context": {
+      "user_id": "8458",
+      "request_id": "req_90047"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "6423",
+      "request_id": "req_68076"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "4991",
+      "request_id": "req_84038"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "2951",
+      "request_id": "req_85883"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "4671",
+      "request_id": "req_56405"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "8900",
+      "request_id": "req_77461"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "4994",
+      "request_id": "req_24131"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Token expired",
+    "context": {
+      "user_id": "8292",
+      "request_id": "req_80482"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "2409",
+      "request_id": "req_65190"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "7564",
+      "request_id": "req_96929"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "1703",
+      "request_id": "req_85302"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "Token expired",
+    "context": {
+      "user_id": "8189",
+      "request_id": "req_29472"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "8453",
+      "request_id": "req_42185"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "1926",
+      "request_id": "req_91772"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "7076",
+      "request_id": "req_47567"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "3715",
+      "request_id": "req_51795"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "3428",
+      "request_id": "req_74264"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "2617",
+      "request_id": "req_32881"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "7299",
+      "request_id": "req_96125"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "2755",
+      "request_id": "req_24767"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "2127",
+      "request_id": "req_49960"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "4773",
+      "request_id": "req_61142"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "9316",
+      "request_id": "req_19264"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "2716",
+      "request_id": "req_14820"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "6106",
+      "request_id": "req_92442"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "3182",
+      "request_id": "req_20467"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "9720",
+      "request_id": "req_92611"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "8131",
+      "request_id": "req_73860"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "3758",
+      "request_id": "req_96053"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "4473",
+      "request_id": "req_83944"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "9300",
+      "request_id": "req_76766"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Token expired",
+    "context": {
+      "user_id": "9754",
+      "request_id": "req_38092"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "1834",
+      "request_id": "req_55175"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "2506",
+      "request_id": "req_75415"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "4500",
+      "request_id": "req_95047"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "7513",
+      "request_id": "req_49093"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "8991",
+      "request_id": "req_43021"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "User login success",
+    "context": {
+      "user_id": "9577",
+      "request_id": "req_82689"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "User login success",
+    "context": {
+      "user_id": "1643",
+      "request_id": "req_91037"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "User login success",
+    "context": {
+      "user_id": "1369",
+      "request_id": "req_21185"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "3820",
+      "request_id": "req_67958"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "8777",
+      "request_id": "req_38491"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "1370",
+      "request_id": "req_79061"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "6598",
+      "request_id": "req_62740"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "User login success",
+    "context": {
+      "user_id": "6165",
+      "request_id": "req_46494"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "7530",
+      "request_id": "req_82567"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "4572",
+      "request_id": "req_37366"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "User login success",
+    "context": {
+      "user_id": "1271",
+      "request_id": "req_50127"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "7964",
+      "request_id": "req_71891"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "5798",
+      "request_id": "req_13116"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "7858",
+      "request_id": "req_53219"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "7571",
+      "request_id": "req_60172"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "2997",
+      "request_id": "req_50143"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "8745",
+      "request_id": "req_16375"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "9864",
+      "request_id": "req_72345"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "4101",
+      "request_id": "req_20734"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "3186",
+      "request_id": "req_69521"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Token expired",
+    "context": {
+      "user_id": "7975",
+      "request_id": "req_68292"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "1629",
+      "request_id": "req_18975"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "7040",
+      "request_id": "req_71824"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "5907",
+      "request_id": "req_99570"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "8500",
+      "request_id": "req_49027"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "1612",
+      "request_id": "req_34972"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "9749",
+      "request_id": "req_30525"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Token expired",
+    "context": {
+      "user_id": "1138",
+      "request_id": "req_57730"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "2114",
+      "request_id": "req_39234"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "8902",
+      "request_id": "req_48382"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "2827",
+      "request_id": "req_31491"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "6831",
+      "request_id": "req_90909"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "7667",
+      "request_id": "req_10453"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "1498",
+      "request_id": "req_93716"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "2025",
+      "request_id": "req_15375"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "1995",
+      "request_id": "req_14960"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "9120",
+      "request_id": "req_43133"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Invalid password",
+    "context": {
+      "user_id": "5864",
+      "request_id": "req_60419"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.667882Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "User login success",
+    "context": {
+      "user_id": "3793",
+      "request_id": "req_45741"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "Token expired",
+    "context": {
+      "user_id": "7687",
+      "request_id": "req_45206"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "User login success",
+    "context": {
+      "user_id": "9861",
+      "request_id": "req_53614"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "6120",
+      "request_id": "req_77573"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "9161",
+      "request_id": "req_97384"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "3647",
+      "request_id": "req_14240"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "DEBUG",
+    "message": "Token expired",
+    "context": {
+      "user_id": "3371",
+      "request_id": "req_27090"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "6211",
+      "request_id": "req_40441"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "2579",
+      "request_id": "req_48779"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "4130",
+      "request_id": "req_70841"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "User login success",
+    "context": {
+      "user_id": "1997",
+      "request_id": "req_40877"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "9169",
+      "request_id": "req_84354"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "ERROR",
+    "message": "User login success",
+    "context": {
+      "user_id": "8662",
+      "request_id": "req_85842"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "Token expired",
+    "context": {
+      "user_id": "5626",
+      "request_id": "req_76762"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "WARN",
+    "message": "Token expired",
+    "context": {
+      "user_id": "4505",
+      "request_id": "req_25437"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.668933Z",
+    "service": "auth",
+    "level": "INFO",
+    "message": "User login success",
+    "context": {
+      "user_id": "5994",
+      "request_id": "req_59232"
+    }
+  }
+]

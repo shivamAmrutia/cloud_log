@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8537",
+      "request_id": "req_65046"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "5167",
+      "request_id": "req_48597"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "9449",
+      "request_id": "req_85520"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "5350",
+      "request_id": "req_31892"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "7082",
+      "request_id": "req_62163"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "4537",
+      "request_id": "req_55840"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "2210",
+      "request_id": "req_29196"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1792",
+      "request_id": "req_70755"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1116",
+      "request_id": "req_49578"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1343",
+      "request_id": "req_46866"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "7800",
+      "request_id": "req_26052"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Card declined",
+    "context": {
+      "user_id": "6885",
+      "request_id": "req_10568"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Card declined",
+    "context": {
+      "user_id": "4616",
+      "request_id": "req_27857"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "1509",
+      "request_id": "req_69538"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "6588",
+      "request_id": "req_46647"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Card declined",
+    "context": {
+      "user_id": "6548",
+      "request_id": "req_22616"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1593",
+      "request_id": "req_91376"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "8500",
+      "request_id": "req_82164"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "7864",
+      "request_id": "req_56183"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "7950",
+      "request_id": "req_27225"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "3666",
+      "request_id": "req_97800"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Card declined",
+    "context": {
+      "user_id": "4963",
+      "request_id": "req_46005"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "1408",
+      "request_id": "req_51659"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1026",
+      "request_id": "req_97603"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "7677",
+      "request_id": "req_77508"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "5611",
+      "request_id": "req_22120"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "5480",
+      "request_id": "req_53661"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "5274",
+      "request_id": "req_71782"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "6605",
+      "request_id": "req_12465"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "2629",
+      "request_id": "req_10028"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "9398",
+      "request_id": "req_23597"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Card declined",
+    "context": {
+      "user_id": "4486",
+      "request_id": "req_32969"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "1080",
+      "request_id": "req_34568"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "9020",
+      "request_id": "req_18116"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Card declined",
+    "context": {
+      "user_id": "5011",
+      "request_id": "req_39977"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "4355",
+      "request_id": "req_64258"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "3072",
+      "request_id": "req_61800"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Card declined",
+    "context": {
+      "user_id": "2502",
+      "request_id": "req_75672"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1968",
+      "request_id": "req_26152"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "3199",
+      "request_id": "req_98731"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Card declined",
+    "context": {
+      "user_id": "1340",
+      "request_id": "req_70928"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "7549",
+      "request_id": "req_94537"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "7922",
+      "request_id": "req_61617"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "2209",
+      "request_id": "req_97085"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "9514",
+      "request_id": "req_33285"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "2776",
+      "request_id": "req_84134"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "2248",
+      "request_id": "req_25251"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "4143",
+      "request_id": "req_10144"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "8807",
+      "request_id": "req_20997"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "8872",
+      "request_id": "req_22780"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "4564",
+      "request_id": "req_91075"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Card declined",
+    "context": {
+      "user_id": "9831",
+      "request_id": "req_27648"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1536",
+      "request_id": "req_91899"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8721",
+      "request_id": "req_85534"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8730",
+      "request_id": "req_29271"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "8764",
+      "request_id": "req_52425"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "9456",
+      "request_id": "req_85619"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "1112",
+      "request_id": "req_27885"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "1953",
+      "request_id": "req_85819"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "7675",
+      "request_id": "req_45856"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Card declined",
+    "context": {
+      "user_id": "4945",
+      "request_id": "req_54448"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "2254",
+      "request_id": "req_22097"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "6252",
+      "request_id": "req_98188"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "3687",
+      "request_id": "req_56001"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Card declined",
+    "context": {
+      "user_id": "4666",
+      "request_id": "req_40953"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "5883",
+      "request_id": "req_68097"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Card declined",
+    "context": {
+      "user_id": "5685",
+      "request_id": "req_70194"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "4557",
+      "request_id": "req_70288"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "2171",
+      "request_id": "req_56600"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "3272",
+      "request_id": "req_54243"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Card declined",
+    "context": {
+      "user_id": "8443",
+      "request_id": "req_93448"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Card declined",
+    "context": {
+      "user_id": "1543",
+      "request_id": "req_68190"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "3771",
+      "request_id": "req_28874"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "2010",
+      "request_id": "req_38905"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "9744",
+      "request_id": "req_13108"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "8391",
+      "request_id": "req_48883"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "5279",
+      "request_id": "req_79732"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8991",
+      "request_id": "req_32780"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "6925",
+      "request_id": "req_85722"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "9202",
+      "request_id": "req_64028"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "3169",
+      "request_id": "req_65533"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "6573",
+      "request_id": "req_97900"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "7930",
+      "request_id": "req_50285"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8868",
+      "request_id": "req_34330"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "7073",
+      "request_id": "req_96506"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "7623",
+      "request_id": "req_33867"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8605",
+      "request_id": "req_88548"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "7236",
+      "request_id": "req_41501"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "3804",
+      "request_id": "req_52591"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Card declined",
+    "context": {
+      "user_id": "8691",
+      "request_id": "req_70042"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "5824",
+      "request_id": "req_86057"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "2049",
+      "request_id": "req_22631"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Card declined",
+    "context": {
+      "user_id": "4638",
+      "request_id": "req_57887"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "6244",
+      "request_id": "req_15955"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "INFO",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8619",
+      "request_id": "req_67352"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Refund issued",
+    "context": {
+      "user_id": "8857",
+      "request_id": "req_52922"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "ERROR",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "5385",
+      "request_id": "req_29109"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Payment processed",
+    "context": {
+      "user_id": "2187",
+      "request_id": "req_76410"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "WARN",
+    "message": "Card declined",
+    "context": {
+      "user_id": "9347",
+      "request_id": "req_93049"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.674758Z",
+    "service": "billing",
+    "level": "DEBUG",
+    "message": "Card declined",
+    "context": {
+      "user_id": "9857",
+      "request_id": "req_15342"
+    }
+  }
+]

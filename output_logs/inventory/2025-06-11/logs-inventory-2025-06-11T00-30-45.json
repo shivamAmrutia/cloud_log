@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "9553",
+      "request_id": "req_92075"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "2576",
+      "request_id": "req_35903"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "8932",
+      "request_id": "req_49060"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "3950",
+      "request_id": "req_48434"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "6266",
+      "request_id": "req_10669"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6836",
+      "request_id": "req_45770"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9480",
+      "request_id": "req_78430"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6365",
+      "request_id": "req_33716"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6921",
+      "request_id": "req_11070"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2878",
+      "request_id": "req_68680"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "6221",
+      "request_id": "req_31158"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "3726",
+      "request_id": "req_23698"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "3659",
+      "request_id": "req_63552"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "3499",
+      "request_id": "req_30060"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "9228",
+      "request_id": "req_53181"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "4323",
+      "request_id": "req_78368"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "5097",
+      "request_id": "req_50329"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "5696",
+      "request_id": "req_31844"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "4710",
+      "request_id": "req_14275"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "7738",
+      "request_id": "req_88119"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2643",
+      "request_id": "req_86754"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "1436",
+      "request_id": "req_89489"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2350",
+      "request_id": "req_79723"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9749",
+      "request_id": "req_24589"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "4002",
+      "request_id": "req_71171"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "5399",
+      "request_id": "req_80867"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "7752",
+      "request_id": "req_37896"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "8978",
+      "request_id": "req_54233"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "6862",
+      "request_id": "req_33581"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "2291",
+      "request_id": "req_61379"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.679138Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "6384",
+      "request_id": "req_68426"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "9268",
+      "request_id": "req_59917"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2516",
+      "request_id": "req_28116"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "ERROR",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "1264",
+      "request_id": "req_78002"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "5682",
+      "request_id": "req_32517"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "5958",
+      "request_id": "req_77452"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "4892",
+      "request_id": "req_52181"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9384",
+      "request_id": "req_49039"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "ERROR",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "7972",
+      "request_id": "req_41590"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9706",
+      "request_id": "req_39326"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6817",
+      "request_id": "req_11762"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6005",
+      "request_id": "req_65833"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "4508",
+      "request_id": "req_58532"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "9122",
+      "request_id": "req_33511"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "3664",
+      "request_id": "req_38325"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "9891",
+      "request_id": "req_57738"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "1097",
+      "request_id": "req_19825"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "1128",
+      "request_id": "req_22875"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "7008",
+      "request_id": "req_59360"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "7293",
+      "request_id": "req_18048"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "2031",
+      "request_id": "req_55821"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "8634",
+      "request_id": "req_42833"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "5495",
+      "request_id": "req_25084"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6105",
+      "request_id": "req_21066"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "ERROR",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "1821",
+      "request_id": "req_98621"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "2948",
+      "request_id": "req_63713"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "4819",
+      "request_id": "req_93827"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "5465",
+      "request_id": "req_99935"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2286",
+      "request_id": "req_56069"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "4786",
+      "request_id": "req_11736"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9450",
+      "request_id": "req_31790"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6843",
+      "request_id": "req_48247"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "1840",
+      "request_id": "req_28549"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "7213",
+      "request_id": "req_39426"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "1228",
+      "request_id": "req_87021"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "6996",
+      "request_id": "req_60618"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "ERROR",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "4133",
+      "request_id": "req_71150"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "3393",
+      "request_id": "req_19854"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "4010",
+      "request_id": "req_82200"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "9597",
+      "request_id": "req_95654"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "8496",
+      "request_id": "req_67719"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "2550",
+      "request_id": "req_78617"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "2781",
+      "request_id": "req_46025"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "6464",
+      "request_id": "req_74437"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9209",
+      "request_id": "req_65476"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "6587",
+      "request_id": "req_11387"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2827",
+      "request_id": "req_38573"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "3159",
+      "request_id": "req_55325"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "4744",
+      "request_id": "req_77596"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "2315",
+      "request_id": "req_27946"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "2468",
+      "request_id": "req_69229"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "8142",
+      "request_id": "req_95396"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "5844",
+      "request_id": "req_19329"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "2361",
+      "request_id": "req_31268"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "ERROR",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "3494",
+      "request_id": "req_69152"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "3717",
+      "request_id": "req_91786"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "6027",
+      "request_id": "req_94742"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "1852",
+      "request_id": "req_21312"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9471",
+      "request_id": "req_59004"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "ERROR",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "7939",
+      "request_id": "req_36376"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "4119",
+      "request_id": "req_48218"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "1338",
+      "request_id": "req_71682"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "1379",
+      "request_id": "req_78845"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "2390",
+      "request_id": "req_23316"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "INFO",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "8392",
+      "request_id": "req_62954"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "8253",
+      "request_id": "req_20412"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "9238",
+      "request_id": "req_26687"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Out of stock",
+    "context": {
+      "user_id": "7308",
+      "request_id": "req_96716"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "DEBUG",
+    "message": "Inventory sync failed",
+    "context": {
+      "user_id": "8862",
+      "request_id": "req_44631"
+    }
+  },
+  {
+    "timestamp": "2025-06-11T00:30:45.680027Z",
+    "service": "inventory",
+    "level": "WARN",
+    "message": "Item stock updated",
+    "context": {
+      "user_id": "9989",
+      "request_id": "req_94062"
+    }
+  }
+]
